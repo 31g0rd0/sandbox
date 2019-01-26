@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Your mother Joe!
+            Your mother cats!
           </a>
         </header>
       </div>
